@@ -14,9 +14,9 @@ The data we are going analyze derives from two main sources: the “200 years ne
 
 
 # Dataset
-- * "The New York Times" online archive and the "TimesMachine" (also through the available APIs)
-- * "200 years news" (Le Temps) dataset on the EPFL cluster 
-- * We expect to get the set of relevant articles by performing a complete search by means of dictionaries of keywords and implement a method to retrieve information from pictures, maps and charts.
+* "The New York Times" online archive and the "TimesMachine" (also through the available APIs)
+* "200 years news" (Le Temps) dataset on the EPFL cluster 
+* We expect to get the set of relevant articles by performing a complete search by means of dictionaries of keywords and implement a method to retrieve information from pictures, maps and charts.
 
 # A list of internal milestones up until project milestone 2
 
